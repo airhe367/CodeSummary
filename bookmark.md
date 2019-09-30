@@ -2,7 +2,9 @@
 
 
 
-* [Oracle Java问题定位工具](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/toc.html)
+* [Oracle-java问题定位工具](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/toc.html)
+* [Oracle-javac参数文档](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javac.html)
+
 
 * [Java知识梳理](https://github.com/a594645875/blog/blob/master/README.md)
 
