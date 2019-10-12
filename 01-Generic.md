@@ -1,8 +1,8 @@
 # 泛型
 
-## Class<T>类传递及泛型数组
+## Class\<T\>类传递及泛型数组
 
-### 使用Class<T>传递泛型类Class对象 
+### 使用Class\<T\>传递泛型类Class对象 
 
 ```java
 // Class<T>相当于 Object.class
