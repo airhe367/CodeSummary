@@ -80,6 +80,22 @@ List<? extends Number> eList = null;
 eList = new ArrayList<Integer>();
 eList = new ArrayList<Long>();
 ```
+
+```java
+List<? super Number> list = new ArrayList<>();
+list.add(new Integer(1));  // R
+list.add(new Double(2));  // R
+Object obj=list.get(0);   // R
+System.out.println(list.get(1)); // R
+
+List<? extends Number> list2 = new ArrayList<>();
+Object number = new Integer(1);
+list2.add(number);// W
+list2.add(new Integer(1));// W
+
+System.out.println(list2.get(1)); // R
+```
+
 ### 通配符总结
 - 限定通配符总是包括自己
 - 上界类型通配符：add方法受限
