@@ -2,6 +2,33 @@
 
 ## 泛型的使用
 泛型有三种使用方式，分别为：泛型类、泛型接口、泛型方法
+
+### 泛型类
+```java
+ class 类名称 <泛型标识：可以随便写任意标识号，标识指定的泛型的类型>{
+   private 泛型标识 /*（成员变量类型）*/ var; 
+   .....
+   }
+ }
+```
+
+### 泛型接口
+```java
+//定义一个泛型接口
+public interface Generator<T> {
+     public T next();
+ }
+```
+
+### 泛型方法
+```java
+public <T> T genericMethod(Class<T> tClass)throws InstantiationException ,IllegalAccessException{
+       T instance = tClass.newInstance();
+       return instance;
+}
+```
+
+
 https://www.cnblogs.com/fnlingnzb-learner/p/7265104.html
 
 ## 通配符? 与 T 的区别
