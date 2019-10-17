@@ -148,7 +148,6 @@ public static void main(String args[]){
 public class Test<T>
 {
     T t;
- 
     public void create()
     {
         t = new T();//编译错误：Cannot instantiate the type T
@@ -162,7 +161,6 @@ public class Test<T>
 public class Test<T>
 {
     T t;
- 
     public void create(Class<T> clazz)
     {
         try
@@ -180,3 +178,23 @@ public class Test<T>
     }
 }
 ```
+
+## 协变，逆变
+f(⋅)是逆变（contravariant）的，当A≤B时有f(B)≤f(A)成立；
+f(⋅)是协变（covariant）的，当A≤B时有成立f(A)≤f(B)成立；
+
+### 数组支持协变
+```java
+List<A> list = new ArrayList<B>();//编译失败,集合使用泛型避免了协变引入的运行时错误,在编译时就避免了问题
+
+//数组不支持泛型,所以需要协变
+Object[] array = new Integer[10];
+array[0] = "s String"; //运行时错误
+```
+
+
+### 集合支持协变，逆变
+? extends 协变
+? super 逆变
+
+
