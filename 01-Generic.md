@@ -93,10 +93,11 @@ Object obj=list.get(0);   // R
 System.out.println(list.get(1)); // R
 
 List<? extends Number> list2 = new ArrayList<>();
-Object number = new Integer(1);
-list2.add(number);// W
+Object number1 = new Integer(1);
+list2.add(number1);// W
 list2.add(new Integer(1));// W
 
+Number number2 =list2.get(1); // R
 System.out.println(list2.get(1)); // R
 ```
 
