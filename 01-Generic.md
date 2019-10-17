@@ -80,8 +80,8 @@ eList = new ArrayList<Long>(); // R
 List<? super Number> list = new ArrayList<>();
 list.add(new Integer(1));  // R
 list.add(new Double(2));  // R
-Object obj=list.get(0);   // R
-System.out.println(list.get(1)); // R
+Object obj=list.get(0);   // R 取出数据时无法指定数据类型,否则编译失败
+System.out.println(list.get(1)); // R 
 
 List<? extends Number> list2 = new ArrayList<>();
 Object number1 = new Integer(1);
