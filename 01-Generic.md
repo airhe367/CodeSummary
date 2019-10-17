@@ -31,8 +31,6 @@ public <T,K> K showKeyName(Generic<T> container){
   return k;
 }
 ```
-
-
 https://www.cnblogs.com/fnlingnzb-learner/p/7265104.html
 
 ## 通配符? 与 T 的区别
@@ -61,31 +59,24 @@ public void showKeyValue1(List<?> obj){
 List<? extends Number> eList = null;
 eList = new ArrayList<Integer>();
 Number numObject = eList.get(0);  //语句1，正确
-
-//Type mismatch: cannot convert from capture#3-of ? extends Number to Integer
 Integer intObject = eList.get(0);  //语句2，错误
-
-//The method add(capture#3-of ? extends Number) in the type List<capture#3-of ? extends Number> is not applicable for the arguments (Integer)
 eList.add(new Integer(1));  //语句3，错误
 ```
+
 ### 下界类型通配符（? super ）
 ```java
 List<? super Integer> sList = null;
 sList = new ArrayList<Number>();
-//Type mismatch: cannot convert from capture#5-of ? super Integer to Number
 Number numObj = sList.get(0);  //语句1，错误
-//Type mismatch: cannot convert from capture#6-of ? super Integer to Integer
 Integer intObj = sList.get(0);  //语句2，错误
 sList.add(new Integer(1));  //语句3，正确
 ```
-### 上界类型通配符（? extends）
+### 上界/下界类型通配符比较
 ```java
 List<? extends Number> eList = null;
-eList = new ArrayList<Integer>();
-eList = new ArrayList<Long>();
-```
+eList = new ArrayList<Integer>(); // R
+eList = new ArrayList<Long>(); // R
 
-```java
 List<? super Number> list = new ArrayList<>();
 list.add(new Integer(1));  // R
 list.add(new Double(2));  // R
@@ -100,6 +91,7 @@ list2.add(new Integer(1));// W
 Number number2 =list2.get(1); // R
 System.out.println(list2.get(1)); // R
 ```
+
 
 ### 通配符总结
 - 限定通配符总是包括自己
