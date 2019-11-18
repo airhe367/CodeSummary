@@ -8,6 +8,7 @@
 ### Java 
 * [Java知识梳理](https://github.com/a594645875/blog/blob/master/README.md)
 * [Java注解](https://blog.csdn.net/javazejian/article/details/71860633)
+* [JDK动态代理](https://blog.csdn.net/yhl_jxy/article/details/80586785)
 
 
 ### Python
