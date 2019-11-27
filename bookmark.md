@@ -22,7 +22,7 @@
 * [Spring boot简单实例](https://www.ibm.com/developerworks/cn/java/j-spring-boot-basics-perry/index.html)
 
 ### 前端
-* [ReactNative](https://reactnative.cn/docs/style/)
+* [React](https://zh-hans.reactjs.org/)
 * [ReactNative](https://reactnative.cn/docs/style/)
 
 
