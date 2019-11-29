@@ -1,0 +1,67 @@
+
+git clone git@*.git ：clone一个git项目
+
+git remote：查看远程库的信息
+git remote -v：显示更详细的信息
+
+git branch ：显示当前分支信息
+git branch <branchname> ：创建分支
+git branch -r ：显示远程分支
+git branch -a ：显示所有分支
+git branch -d [分支名] ：删除分支
+
+git merge <branchname>：合并某分支到当前分支
+git checkout master：检出分支
+git checkout -b <branchname> ：创建+切换分支
+
+git checkout -- file：丢弃工作区的修改，--很重要，没--，就变成了“切换到另一个分支”的命
+    自修改后还没被放到暂存区，现在，撤销修改就回到和版本库一模一样的状态
+    已经添加到暂存区后，又作了修改，现在，撤销修改就回到添加到暂存区后的状态
+git reset HEAD file：可以把暂存区的修改撤销掉，重新放回工作区
+
+git status ：查看当前仓库的状态
+git add . ：添加所有为
+git add test.txt ：添加一个文件
+git diff [test.txt]：比较一个文件
+git diff --cached
+git diff HEAD -- readme.txt ：工作区和版本库里面最新版本的区别
+
+git commit -m "注释" ：提交一个文件
+
+git push ：将提交推送到仓库
+git push origin master ：将本地master推送到远程origin
+
+git log ：可以查看提交历史，以便确定要回退到哪个版本
+    git log --pretty=oneline：格式化显示
+    git log --graph：查看分支合并图
+  
+git reset --hard HEAD^：回到过去-用HEAD表示当前版本上一个版本就是HEAD^，上上一个版本就是HEAD^^
+git reflog：查看命令历史，以便确定要回到未来的哪个版本
+git reset --hard 3628164 ：回到未来
+
+git rm test.txt：删除文件
+
+git merge feature1：合并feature1分支到当前分支
+    解决分支冲突 git status ->修改->git add file
+    解决合并冲突 git pull -》修改 ->。。。
+
+
+切换前保留当前工作状态
+git stash：当前工作现场“储藏”起来，等以后恢复现场后继续工作
+git stash list：查看储藏的工作区
+git stash pop：取出并删除工作区
+git stash apply：取出工作区
+git stash drop:删除工作区
+git branch --set-upstream dev origin/dev ：本地dev与远程dev关联
+
+标签
+git tag <name>：打一个新标签
+git tag：查看所标签
+git tag v0.9 6224937：根据提交ID打标签（git log --pretty=oneline --abbrev-commit）
+git show <tagname>：查看标签详细信息
+git push origin <tagname> ：推送标签
+git push origin --tags：一次性推送全部尚未推送到远程的本地标签
+git tag -d v0.1：删除标签
+
+
+
