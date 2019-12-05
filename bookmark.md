@@ -5,6 +5,11 @@
 * [Java注解](https://blog.csdn.net/javazejian/article/details/71860633)
 * [JDK动态代理](https://blog.csdn.net/yhl_jxy/article/details/80586785)
 * [Spring动态代理](https://cloud.tencent.com/developer/article/1170370)
+* [JDK分支/合并框架](https://blog.csdn.net/weixin_41404773/article/details/80733324)
+
+### Maven
+* [maven setting.xml配置详解](https://www.cnblogs.com/iceJava/p/10356309.html)
+* [maven pom.xml配置详解](https://www.jianshu.com/p/8417a94c4d94)
 
 ### Oracle Java 
 * [Oracle-java问题定位工具](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/toc.html)
@@ -25,7 +30,8 @@
 * [React](https://zh-hans.reactjs.org/)
 * [ReactNative](https://reactnative.cn/docs/style/)
 
-
+### Linux
+* [SSH配置详解](https://blog.51cto.com/13242922/2074847)
 
 ### 其他资料
 《阿里巴巴Java开发手册》: https://1994.github.io/p3c/
