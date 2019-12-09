@@ -1,0 +1,12 @@
+Linux 命令查: https://man.linuxde.net/
+
+HISTSIZE=1000 设置命令缓存
+find . -name 'filename*' 查找文件名
+grep -rn 'keyword' fileName (r:recurisive n:number)
+
+ps -ef | grep pid/pname 根据进程ID或者名称查看进程详细信息
+netstat -nap | grep pid/port 根据进程ID或者端口号查看详细信息
+
+df -h 文件系统查看
+du -sh 查看文件目录大小
+du --max-depth=1 -h /folder 查看深度为1的文件目录树结构
