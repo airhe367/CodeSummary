@@ -1,0 +1,12 @@
+        1:Double精确数据处理
+        double v1=0.1;
+        double v2=0.1;
+        BigDecimal b1 = new BigDecimal(Double.toString(v1));
+        BigDecimal b2 = new BigDecimal(Double.toString(v2));
+        b1.add(b2).doubleValue();
+        b1.subtract(b2).doubleValue();
+        b1.multiply(b2).doubleValue();
+        b1.divide(b2,2,BigDecimal.ROUND_HALF_UP).doubleValue();
+        b1.setScale(2,BigDecimal.ROUND_HALF_UP).doubleValue();
+        
+        2:Java8日期处理
