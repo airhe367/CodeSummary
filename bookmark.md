@@ -55,3 +55,11 @@ Mockito（JAVA）：http://static.javadoc.io/org.mockito/mockito-core/2.25.1/org
 《Debugging with GDB》：https://www.gnu.org/software/gdb/documentation/
 
 算法第四版 源码 https://github.com/kevin-wayne/algs4/tree/master/src/main/java/edu/princeton/cs/algs4
+
+汉字 Unicode 编码范围：
+
+https://www.qqxiuzi.cn/zh/hanzi-unicode-bianma.php?zfj=kzb
+https://www.qqxiuzi.cn/zh/hanzi-unicode-bianma.php
+生僻字地名：
+
+https://zh.wikipedia.org/wiki/%E5%9B%A0%E7%94%A8%E5%AD%97%E7%94%9F%E5%83%BB%E9%9A%BE%E8%AE%A4%E8%80%8C%E6%9B%B4%E5%90%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%90%8D%E5%88%97%E8%A1%A8
