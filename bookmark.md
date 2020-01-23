@@ -36,30 +36,35 @@
 ### 其他资料
 《阿里巴巴Java开发手册》: https://1994.github.io/p3c/
 
-《Advanced GoogleTest Topics》：https://github.com/google/googletest/blob/master/googletest/docs/advanced.md
-
-《Defining a Mock Class》：https://github.com/google/googletest/blob/master/googlemock/docs/CheatSheet.md
-
-《软件错误注入测试技术研究》：http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3526&journal_id=jos
-
-《捣乱猴测试》（JAVA）：https://netflix.github.io/chaosmonkey/
-
-白盒测试覆盖技术：https://blog.csdn.net/virus2014/article/details/51217026
-
-《Google Mock》：https://github.com/google/googletest/blob/master/googlemock/docs/ForDummies.md
-
- JUnit4（JAVA）：https://github.com/junit-team/junit4/wiki
- 
-Mockito（JAVA）：http://static.javadoc.io/org.mockito/mockito-core/2.25.1/org/mockito/Mockito.html
-
-《Debugging with GDB》：https://www.gnu.org/software/gdb/documentation/
+http://www.github.com  
+找开源项目,写blog  
+http://www.stackoverflow.com  
+碰到问题怎么办?
+http://www.codeproject.com  
+需要设计某个复杂的gui,又不想自己写怎么办?
+http://www.google.com/ncr
+为什么是ncr?因为效率高. 
+http://www.v2ex.com
+痴汉乐园,为什么是痴汉?因为geek. 
+http://www.oschina.net 
+一些技术的八卦可以看看. 
+W3school在线教程:http://www.w3school.com.cn/ 
+java技术大全：http://github.com/jobbole/awesome-java-cn 
+技术资源网：
+https://hao.jobble.com/ 
+http://www.php100.com （php）
+http://www.php-z.com（php）
+http://www.cnodejs.org （nodejs） 
+http://www.ruby-china.org （ruby） 
+http://www.cocoachina.com （IOS） 
+http://www.code4app.com （IOS） 
+http://www.apkbus.com （android）
 
 算法第四版 源码 https://github.com/kevin-wayne/algs4/tree/master/src/main/java/edu/princeton/cs/algs4
 
 汉字 Unicode 编码范围：
-
 https://www.qqxiuzi.cn/zh/hanzi-unicode-bianma.php?zfj=kzb
 https://www.qqxiuzi.cn/zh/hanzi-unicode-bianma.php
-生僻字地名：
 
+生僻字地名：
 https://zh.wikipedia.org/wiki/%E5%9B%A0%E7%94%A8%E5%AD%97%E7%94%9F%E5%83%BB%E9%9A%BE%E8%AE%A4%E8%80%8C%E6%9B%B4%E5%90%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%9C%B0%E5%90%8D%E5%88%97%E8%A1%A8
