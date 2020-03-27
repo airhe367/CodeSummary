@@ -7,6 +7,7 @@
 5. Beyond Compare: 比较工具
 6. Q-dir: 多窗口文件夹浏览
 7. NotePad+: 文本工具
+8. EDiary:电子日记本
 8. Total Commander: 资源管理器工具
   插件下载：https://www.ghisler.com/plugins.htm
   https://www.autoahk.com/archives/9013
@@ -31,6 +32,11 @@
 3. Wireshark：网络抓包以及分析工具
 4. SoapUI SOAP： 接口测试工具
 5. DiagramDesigner：简单流程图工具
+6. MemoryAnalyzer: dump文件分析工具
+8. FileZilla FTP Client: FTP客户端
+9. wftpd32: FTP服务端
+10. RebexTinySftpServer: SFTP服务端
+11. Wireshark：网络分析工具
 
 
 
