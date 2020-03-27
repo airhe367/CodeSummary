@@ -37,6 +37,7 @@
 9. wftpd32: FTP服务端
 10. RebexTinySftpServer: SFTP服务端
 11. Wireshark：网络分析工具
+12. Aqua Data Studio 数据库管理工具
 
 
 
