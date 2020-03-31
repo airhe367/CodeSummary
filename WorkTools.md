@@ -34,8 +34,8 @@
 5. DiagramDesigner：简单流程图工具
 6. MemoryAnalyzer: dump文件分析工具
 8. FileZilla FTP Client: FTP客户端
-9. wftpd32: FTP服务端
-10. RebexTinySftpServer: SFTP服务端
+9. wftpd32: FTP服务端 https://wftpd-server.en.softonic.com/
+10. RebexTinySftpServer: SFTP服务端 https://labs.rebex.net/tiny-sftp-server
 11. Wireshark：网络分析工具
 12. Aqua Data Studio 数据库管理工具
 
