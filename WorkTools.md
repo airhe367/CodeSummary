@@ -8,6 +8,7 @@
 6. Q-dir: 多窗口文件夹浏览
 7. NotePad+: 文本工具
 8. EDiary:电子日记本
+8. 便笺:效能左面便笺
 8. Total Commander: 资源管理器工具
   插件下载：https://www.ghisler.com/plugins.htm
   https://www.autoahk.com/archives/9013
@@ -38,7 +39,7 @@
 10. RebexTinySftpServer: SFTP服务端 https://labs.rebex.net/tiny-sftp-server
 11. Wireshark：网络分析工具
 12. Aqua Data Studio 数据库管理工具
-
+12. IDEA插件 https://www.codota.com/get#intellij
 
 
 
