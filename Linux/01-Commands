@@ -10,3 +10,5 @@ netstat -nap | grep pid/port 根据进程ID或者端口号查看详细信息
 df -h 文件系统查看
 du -sh 查看文件目录大小
 du --max-depth=1 -h /folder 查看深度为1的文件目录树结构
+
+JAVA_HOME="/foder/`ls /foder/ | grep ^jre- | tail -1`"  --》多个匹配目录选择一个
