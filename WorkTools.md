@@ -2,7 +2,7 @@
 ## 系统工具
 1. Ditto: 粘贴板工具
 2. Everything: 文件检索工具
-3. FSCapture：屏幕录屏工具
+3. FSCapture/EVCapture：屏幕录屏工具
 4. Snipaste：截图工具
 5. Beyond Compare: 比较工具
 6. Q-dir: 多窗口文件夹浏览
