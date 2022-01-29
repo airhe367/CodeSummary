@@ -32,3 +32,8 @@ npm config set registry https://registry.npmjs.org
 npm install -g cnpm --registry=https://registry.npm.taobao.org：安装cnpm,基本支持所有npm命令
 npm config get registry/npm info express ：查看当前使用的仓库
 
+console.log('My %s has %d years', 'cat', 2)
+%s format a variable as a string
+%d format a variable as a number
+%i format a variable as its integer part only
+%o format a variable as an object
