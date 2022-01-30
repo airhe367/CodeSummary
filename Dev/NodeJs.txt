@@ -54,3 +54,12 @@ npm install cowsay@1.2.0 ：安装老版本
 npm view cowsay versions：查看所有版本
 npm view cowsay version：查看最新版本
 npm list --depth=0：按照深度查看
+
+
+npm update:更新两个json
+npm update --no-save:不更新package.json
+npm outdated：检查是否有更新的包
+npm install：下载依赖
+npm update：更新依赖
+npm install -g npm-check-updates  
+ncu -u ：强制更新到最新版
