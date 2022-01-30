@@ -48,3 +48,5 @@ Shorthands of the flags can also be used:
 -S: --save
 -D: --save-dev
 -O: --save-optional
+
+npm root -g:查询全局仓包位置
