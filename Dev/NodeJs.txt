@@ -50,3 +50,7 @@ Shorthands of the flags can also be used:
 -O: --save-optional
 
 npm root -g:查询全局仓包位置
+npm install cowsay@1.2.0 ：安装老版本
+npm view cowsay versions：查看所有版本
+npm view cowsay version：查看最新版本
+npm list --depth=0：按照深度查看
