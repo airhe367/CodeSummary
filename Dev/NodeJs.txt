@@ -63,3 +63,9 @@ npm install：下载依赖
 npm update：更新依赖
 npm install -g npm-check-updates  
 ncu -u ：强制更新到最新版
+
+npm uninstall <package-name>：卸载一个包
+npm install --production：作为产品安装（不下载devDependencies）
+npx cowsay "Hello" / npx node@10 -v /npx https://gist.github.com/zkat/4bc19503fe9e9309e2bfaa2c58074d32：执行二进制
+process.nextTick(() => {}) ：确保当前函数完成后首先执行
+setImmediate(() => {})：与setTimeout(() => {}, 0)类似,还在setTimeout之后
