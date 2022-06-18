@@ -5,17 +5,21 @@ I believe that everyone should encourage the children to do sports every day.
 Doing sports can make them stronger especially when the children are growing. 
 The only concern is that how long we should encourage them to do so. 
 My opinion is to encourage the children to have at least 1 hour outdoor sports. This is very important for their health.
-2.	应不应该家长辅导小孩做作业Is it best for family members to help children with school work or to like children complete school work along without help?  Please explain.
+2.	应不应该家长辅导小孩做作业
+Is it best for family members to help children with school work or to like children complete school work along without help?  Please explain.
 My view is that the parents should help their children do their homework before they could really do it by themselves. 
 I believe most of the children don’t know how to study by themselves before grade 2 of the primary school, 
 it will easily lead them to be confused and upset at studying without parents’ help.
 In these 2 years, the parents should also teach them how to finish the homework by themselves.
-3.	小孩间争吵或打架，该如何处理？When children are arguing or fighting, what is the best way for a parent to deal with this conflict, describe your thinking?
+
+3.	小孩间争吵或打架，该如何处理？
+When children are arguing or fighting, what is the best way for a parent to deal with this conflict, describe your thinking?
 In my opinion. If I encounter such a situation that children are arguing or fighting, 
 I will persuade them to stop doing so, and ask them what their conflict is, then help them to analyze who is right 
 or who is responsible for this conflict. Also I will tell them that arguing or fighting is really a wrong way 
 to handle with people’s problem, sometimes it will lead friendship breakable.
-4.	孩子放学后该不该有休闲时光。After school day off, some family allow child to play as long they wish, other family think child should continue study do you think how many leisurely(悠闲) time they should have.
+4.	孩子放学后该不该有休闲时光
+After school day off, some family allow child to play as long they wish, other family think child should continue study do you think how many leisurely(悠闲) time they should have.
 My view is that children should have their leisure time, it is important and essential [ɪˈsenʃəl] to their mental health.
 But it doesn’t mean that they can play as long as they wish. Parents should tell them firstly to finish their homework.
 And after doing their homework they can have their leisure time for 1 hour or 2 hours.
@@ -129,53 +133,63 @@ In my opinion, I think it depends on different situations, and there isn’t an 
 For example if I am learning new things from a strange field, I will have some difficulties that I cannot solve by myself, 
 that way, I would like some experienced people can teach me how to do it. we can master new technologies faster to get the job done.
 But when people around me are all busy, I don’t want to make any inconvenience to them, this time I will learn by myself.
-26.	你比较喜欢手机通话还是写信？ Do you prefer to communicate by telephone or by writing letters? Why?
+26.	你比较喜欢手机通话还是写信？ 
+Do you prefer to communicate by telephone or by writing letters? Why?
 For me, there isn’t an exact answer for it. I think it depends on different situations, I love both. 
-In normal occasions such as daily communications with friends or colleagues, I would prefer to call 
-or text a message with my cellphone. But in a special occasion such as writing a love letter to my girlfriend 
-or sending a gratitude card to my family, I would prefer to write a letter with my hand. This is more special for me. 
-27.	如何跟朋友维护自己的立场，如果对方持有不同意见。Sometime friends do not agree about an important issue. And they cannot result the different. What is the best way to handle the argument with friend
+In daily communications with friends or colleagues, I would prefer to call or text a message with my cellphone.
+But in a special situation such as writing a love letter to my wife or sending a card to my family,
+I would prefer to write a letter with my hand. This is more special for me. 
+27.	如何跟朋友维护自己的立场，如果对方持有不同意见。
+Sometime friends do not agree about an important issue. And they cannot result the different. What is the best way to handle the argument with friend
 Well, for me, if my friend do not agree with me about an important issue, and this issue could impact our relationship a lot, 
-I'll find a mutual [ˈmjuːtʃʊəl] friend and take his advice. and then find a reasonable method between I and my friend 
-to solve this problem.This will protect our friendship. I think this is a good way to solve this problem.
-28.	你喜欢真实的故事还是编编写的故事？Do you prefer to read a truth story about real people who have actually lived or do you prefer stories about made up people and events? Explain your choice.
-In my opinion, I would like both types of stories. I like to watch documentaries [ˌdɒkjʊˈmentərɪ] very often, 
+I'll  take his advice from friend. and then find a reasonable method between I and my friend to solve this problem.This will protect our friendship. I think this is a good way to solve this problem.
+28.	你喜欢真实的故事还是编编写的故事？
+Do you prefer to read a truth story about real people who have actually lived or do you prefer stories about made up people and events? Explain your choice.
+In my opinion, I would like both types of stories. I like to watch stories, 
 a truth story about real people who actually lived can teach me a lesson of life based on their life experience. 
 Stories about made up peoples and events are more ideal, fictions is made up for entertainment occasions, 
 but this type of story sometimes can give people encouragement, and I also like watch the movies or series which are made up by directors.
-29.	喜欢独立工作还是小组，为什么？Do you refer to work by yourself or in the group? Please explain.
-In my opinion, I think it depends on different situations, there isn’t an exact answer for it. 
-When there is an easy work that I can handle it, I prefer to finish it by myself. But when we need to deliver an important project at work, and it needs many roles to join in, you need to work together with other peoples, so I think it is very important to work together and to make a good relationship with other peoples.
-30.	什么设备对你最重要？Many new things like computer and Mobile Telephone have made everyday life easily. What new tech seem most important to you. Why is it important to you.
+29.	喜欢独立工作还是小组，为什么？
+Do you refer to work by yourself or in the group? Please explain.
+In my opinion, I think it depends on different situations, 
+When there is an easy work that I can handle it, I prefer to finish it by myself. But when we need to do an important project at work, and it needs many roles to join in, you need to work together with other peoples, so I think it is very important to work together and to make a good relationship with other peoples.
+30.	什么设备对你最重要？
+Many new things like computer and Mobile Telephone have made everyday life easily. What new tech seem most important to you. Why is it important to you.
 In my opinion, I think the mobile phone is the most important thing to me right now. because now we are living in a modern generation. 
-mobile phone are deep into our lives. Such as, getting news, buying goods, keeping communicating with family, even to order meals every day, mobile phones have made our lives very convenient. And without a mobile phone, we would get lost easily in a big city.
-So I think the mobile phone is very important to me..
-31.	自学更简单点还是别人教你更简单点？Do you think that is easily for you to learn new subject by yourself or do you think it is better to have a teacher help you with a new subject, please explain.
-Well, in my opinion, I think everyone should have a teacher in the beginning when you are learning a new subject, because it is difficult to make a good start as a beginner, when someone teaches you, it will lead a good result. But it is not very easy to have someone teach especially word by word, you need to learn by yourself, it is essential to improve your self-study ability.
-
-32.	你认为哪个地方最容易养家，为什么？Best location to raise the family. Why？
+mobile phone are deep into our lives. Such as, getting news, buying goods, keeping communicating with family, even to order meals every day, mobile phones have made our lives easy. And without a mobile phone, we may get lost in a big city. So I think the mobile phone is very important to me..
+31.	自学更简单点还是别人教你更简单点？
+Do you think that is easily for you to learn new subject by yourself or do you think it is better to have a teacher help you with a new subject, please explain.
+Well, in my opinion, I think everyone should have a teacher in the beginning when you are learning a new subject, because it is difficult to make a good start as a beginner, when someone teaches you, it will lead a good result. But it is not very easy to have someone teach  word by word, most time you need to learn by yourself.
+32.	你认为哪个地方最容易养家，为什么？
+Best location to raise the family. Why？
 Well, in my opinion, I think it is deeply related to the situations of the city where you live in. 
-For example, in general, if you are living in a developed city you may have more support from the state, and you can get more job opportunities to raise your family, like in Shanghai. If you are living a developing country, you may live with more difficulty, there is less support from the state and low payments for jobs that makes it difficult to support a family. 
+For example, in general, if you are living in a developed city you may have more support from the state, and you can get more job to raise your family, like in Shanghai. If you are living a developing country, you may live with more difficulty, there is less support from the state and low payments for jobs that makes it difficult to support a family. 
 33.	如果给青少年讲座  你想讲什么
 In my opinion, if I have that big honor to give speech for teenagers, I would like to advise them to do the things which they really like,
 Because the interest is the best teacher. In addition, I will tell them that AI is the hottest technology today, 
 and will give the directions that they can go in the future, even the course they can take when they are going to the university.
 Also I'll also tell them about my college experience. 
-34.	如果有家工厂健在你家旁边，这将如何影响你的生活。Imagine that large factory is going to build in near your house, how this affect your life?
-Well, it is really a good question for me to answer, I never have been in such a situation, but if I am involved in this situation, 
-I would like to know firstly which kind of this factory is, and if they will make some environmental pollution or noise pollution. It will be very dangerous for human life and health, I won’t support it to build such a factory, or I will move to another place. 
-35.	你喜欢传统的正装还是舒服点的便装 why? Do you like to wear formal clothing that looks traditional or do you prefer casual clothing that may be more comfortable? Please talk about the specified situations in your answers.
+34.	如果有家工厂健在你家旁边，这将如何影响你的生活。
+Imagine that large factory is going to build in near your house, how this affect your life?
+I never have been in such a situation, but if I am involved in this situation, 
+I would like to know firstly which kind of this factory is, and if they will make some environmental pollution or noise pollution. It will be very dangerous for human life and health, I will not support it to build such a factory, or I will move to another place. 
+35.	你喜欢传统的正装还是舒服点的便装 why? 
+Do you like to wear formal clothing that looks traditional or do you prefer casual clothing that may be more comfortable? Please talk about the specified situations in your answers.
 I don’t have too many dressing rules, I wear whatever I feel comfortable. I love to wear casual clothes rather than formal. I would much rather be in a jacket than in a suit. I’m a t-shirt and jeans type of boy. Although I’m trying to get away from that somewhat, I still find it’s easy to move with.
-36.	哪类课程会让你学到更多东西，音乐还是做饭？为何会选择这门课程呢？Which kind of class do you think you will learn more from, Relaxing music or relaxing cooking ，Why would you benefit from such a lesson.
-Actually, music and cooking are both useful in our daily life. Music can make us feel comfortable after a tedious work, and cooking can let us do some delicious food for our families. But if I must choose one, I would like to choose cooking lessons, because my cooking ability is poor, when I’m free I don’t know how to make a delicious dinner, so now I always take fast food instead, but fast food is not healthy. So if my cooking ability is enhanced, I will happily cook dinner for my families.
-37.	朋友或家人来做客，你会带对方去饭店还是选择在家做饭？Imagine that a friend or a family member is visiting you, would take this person to a restaurant or would you make a meal at home? Explain your choice.
-If my friend or a family member is visiting me, I would prefer to take him to a special restaurant in this area. Because my cooking ability is really very poor, I can’t make any delicious food for him, and eating at a restaurant can give us more time to talk with each other, the progress of making food at home really takes much time.
-38.	描述一件对家庭比较重大的事情或者节日。Describe an event or celebration that has special meaning to your family. Please describe the event in detail.
-In my opinion, the wedding anniversary is a special day for our family to celebrate.
+36.	哪类课程会让你学到更多东西，音乐还是做饭？为何会选择这门课程呢？
+Which kind of class do you think you will learn more from, Relaxing music or relaxing cooking ，Why would you benefit from such a lesson.
+I think music and cooking are both useful in our daily life. Music can make us feel comfortable after a hard work, and cooking can let us do some delicious food for our families. But if I must choose one, I would like to choose cooking lessons, because my cooking ability is poor, when I’m free I don’t know how to make a delicious dinner, so now I always take fast food instead, but fast food is not healthy. I will happily cook dinner for my families.
+37.	朋友或家人来做客，你会带对方去饭店还是选择在家做饭？
+Imagine that a friend or a family member is visiting you, would take this person to a restaurant or would you make a meal at home? Explain your choice.
+If my friend or a family member visit me, I would prefer to take him to a  restaurant in this area. Because my cooking ability is really very poor, I can’t make any delicious food for him, and eating at a restaurant can give us more time to talk with each other, the progress of making food at home really takes much time.
+38.	描述一件对家庭比较重大的事情或者节日。
+Describe an event or celebration that has special meaning to your family. Please describe the event in detail.
+In my opinion, the wedding day is a special day for our family to celebrate.
 Ten years ago, my wife and I started to live together and we got married and formed this family, and then we had 2 kids. 
 On this special day, I usually choose a gift for my wife on that day, and invite my family to a restaurant outside for the dinner. 
-The wedding anniversary is a very happy day to me
-39.幸福的家庭有什么特征。what characteristics should a happy family have, please explain your opinion?
+The wedding day is a very happy day to me
+39.幸福的家庭有什么特征。
+what characteristics should a happy family have, please explain your opinion?
 In my opinion, happy family has these characteristics [ˌkærɪktə'rɪstɪk], family members are very humorous, 
 the home is full of laughter, they respect to each other and treat people warmly, 
 when you get along with them, you will also feel the warmth of the family.
