@@ -38,6 +38,8 @@
 38.	描述一件对家庭比较重大的事情或者节日。
 39.幸福的家庭有什么特征。
 
+--------------------------------------------
+
 1.	应不应该鼓励小孩做体育运动
 I believe that everyone should encourage the children to do sports every day. 
 Doing sports can make them stronger especially when the children are growing. 
