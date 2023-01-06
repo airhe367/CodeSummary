@@ -40,6 +40,7 @@
 11. Wireshark：网络分析工具
 12. Aqua Data Studio 数据库管理工具
 12. IDEA插件 https://www.codota.com/get#intellij
+13. [Burp Suite](https://portswigger.net/burp) 
 
 
 
