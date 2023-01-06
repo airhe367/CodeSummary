@@ -10,11 +10,11 @@
 8. EDiary:电子日记本
 8. 便笺:效能左面便笺
 8. Total Commander: 资源管理器工具
-  插件下载：https://www.ghisler.com/plugins.htm
-  https://www.autoahk.com/archives/9013
-  TC命令
-    Ctrl+d ：目录跳转
-    F2：刷新  Ctrl+R：刷新
+ - 下载：https://www.ghisler.com/plugins.htm
+ - https://www.autoahk.com/archives/9013
+ - TC命令
+ > Ctrl+d ：目录跳转
+ > F2：刷新  Ctrl+R：刷新
     Alt+ 左/右/下：跳转最近几次打开的目录
     Alt+F1/F2：切换磁盘(左右窗口)
     Ctrl+Q：预览文件内容
