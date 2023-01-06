@@ -1,20 +1,20 @@
 # 工具
 ## 系统工具
-1. Ditto: 粘贴板工具
-2. Everything: 文件检索工具
-3. FSCapture/EVCapture：屏幕录屏工具
-4. Snipaste：截图工具
-5. Beyond Compare: 比较工具
-6. Q-dir: 多窗口文件夹浏览
-7. NotePad+: 文本工具
-8. EDiary:电子日记本
-8. 便笺:效能左面便笺
-9. Total Commander: 资源管理器工具
- - 下载：https://www.ghisler.com/plugins.htm
- - https://www.autoahk.com/archives/9013
-**TC命令**
-> Ctrl+d ：目录跳转 
-> F2：刷新  Ctrl+R：刷新
+### Ditto: 粘贴板工具
+### Everything: 文件检索工具
+### FSCapture/EVCapture：屏幕录屏工具
+### Snipaste：截图工具
+### Beyond Compare: 比较工具
+### Q-dir: 多窗口文件夹浏览
+### NotePad+: 文本工具
+### EDiary:电子日记本
+### 便笺:效能左面便笺
+### Total Commander: 资源管理器工具
+1. 下载：https://www.ghisler.com/plugins.htm / https://www.autoahk.com/archives/9013
+2. TC命令
+- Ctrl+d ：目录跳转 
+- F2：刷新  
+- Ctrl+R：刷新
     Alt+ 左/右/下：跳转最近几次打开的目录
     Alt+F1/F2：切换磁盘(左右窗口)
     Ctrl+Q：预览文件内容
