@@ -1,7 +1,8 @@
 # 工具
 ## 系统工具
 ### Ditto: 粘贴板工具
-### Everything: 文件检索工具
+### Everything: 文件名称检索工具
+### Everything: [AnyTXT Searcher](https://anytxt.net/) 文件内容检索工具
 ### FSCapture/EVCapture：屏幕录屏工具
 ### Snipaste：截图工具
 ### Beyond Compare: 比较工具
